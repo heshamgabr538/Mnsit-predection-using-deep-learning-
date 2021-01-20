@@ -1,5 +1,8 @@
+## Authored by Hesham Gabr
+
+
 # Mnsit-prediction-using-deep-learning-
- simple project to predict the MNIST Handwritten Digit Dataset
+ simple project to predict the MNIST Handwritten Digit Dataset with approximately accuracy is 98%
  
  # Requirements (recent version of them)
  
